@@ -1,0 +1,5 @@
+#!/bin/bash
+
+read -p "Naam dal sale: " n
+
+echo -n $n
