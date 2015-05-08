@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#1634
+
 clear
 echo "Enter a three digit number: "
 read n
